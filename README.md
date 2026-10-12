@@ -65,7 +65,7 @@ Experienced in building web and mobile applications from end to end. Previously 
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
 | Project | Description | Tech |
 |---|---|---|
