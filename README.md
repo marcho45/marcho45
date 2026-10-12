@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Paulus%20Marchionni%20Sadipun&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer&descSize=18&descAlignY=58" alt="Paulus Marchionni Sadipun" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Paulus%20Marchionni%20Sadipun&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20%7C%20Mobile%20Developer&descSize=18&descAlignY=58" alt="Paulus Marchionni Sadipun" />
 
 <a href="https://github.com/marcho45">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Paulus+Marchionni+Sadipun;Informatics+Student+%40+UMN;Building+web+%26+mobile+apps+end-to-end;React+%7C+NestJS+%7C+Kotlin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi%2C+I+am+Paulus+Marchionni+Sadipun;Informatics+Student+%40+UMN;Building+web+and+mobile+apps+end-to-end;React+%7C+NestJS+%7C+Kotlin" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,22 +17,22 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 | | |
 |---|---|
-| 🎓 **Education** | Informatics @ Universitas Multimedia Nusantara (UMN) |
-| 💼 **Focus** | Fullstack web & Android development |
-| 🤖 **Exploring** | Mobile dev + machine learning (TFLite, YOLO) |
-| 📍 **Based in** | Indonesia 🇮🇩 |
+|  **Education** | Informatics @ Universitas Multimedia Nusantara (UMN) |
+|  **Focus** | Fullstack web & Android development |
+|  **Exploring** | Mobile dev + machine learning (TFLite, YOLO) |
+|  **Based in** | Indonesia 🇮🇩 |
 
 Experienced in building web and mobile applications from end to end. Previously worked as a **Fullstack Developer** on the *bìsasínema* educational platform and built the backend/payment system for *Mister & Miss UMN 2026*.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-**🎨 Frontend & Mobile**
+**Frontend & Mobile**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,7 +43,7 @@ Experienced in building web and mobile applications from end to end. Previously 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-**⚙️ Backend & Database**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -53,7 +53,7 @@ Experienced in building web and mobile applications from end to end. Previously 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**☁️ Cloud, DevOps & Tools**
+**Cloud, DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -81,7 +81,7 @@ Experienced in building web and mobile applications from end to end. Previously 
 
 <div align="center">
 
-<i>Let's build something great together 🤝</i>
+<i>Let's build something great together</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
