@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Paulus Marchionni Sadipun</h1>
-<h3 align="center">Informatics Student at UMN | Fullstack & Mobile Developer</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Paulus%20Marchionni%20Sadipun&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer&descSize=18&descAlignY=58" alt="Paulus Marchionni Sadipun" />
+
+<a href="https://github.com/marcho45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Paulus+Marchionni+Sadipun;Informatics+Student+%40+UMN;Building+web+%26+mobile+apps+end-to-end;React+%7C+NestJS+%7C+Kotlin" alt="Typing SVG" />
+</a>
+
+</div>
 
 <p align="center">
   <a href="https://portofolio1-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -72,4 +79,10 @@ Experienced in building web and mobile applications from end to end. Previously 
 
 ---
 
-<p align="center"><i>Let's build something great together 🤝</i></p>
+<div align="center">
+
+<i>Let's build something great together 🤝</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+
+</div>
